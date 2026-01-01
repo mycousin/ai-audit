@@ -1,2 +1,25 @@
-README.md
-docs/00_INDEX.md
+/README.md
+/docs/
+  00_INDEX.md
+  01_PRODUCT_BRIEF.md
+  02_V0_SCOPE.md
+  03_ARCHITECTURE_GCP_UK.md
+  04_DATA_MODEL.md
+  05_API_CONTRACT.md
+  06_INTERVIEW_SYSTEM.md
+  07_READINESS_SCORING_RUBRIC.md
+  08_USECASE_SCORING.md
+  09_AGENT_PIPELINE_AND_GATES.md
+  11_OUTPUTS_DECK_SPEC.md
+/schemas/
+  common.json
+  evidence_map_agent.json
+  readiness_agent.json
+  usecase_agent.json
+  scoring_agent.json
+  writer_agent.json
+/prompts/
+  prompt_pack_v0.yaml
+/question_bank/
+  question_bank_v0.yaml
+
